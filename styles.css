@@ -1,0 +1,8 @@
+body{
+    text-align:center;
+}
+button {
+    height: 35px;
+    width:75px;
+    border-radius: 10px;
+}
